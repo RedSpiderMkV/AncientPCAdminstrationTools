@@ -15,7 +15,7 @@ def main():
     In such case, it would restart every 5 mins... handle this somehow at
     some point.'''
 
-    hostIp = '192.168.0.1'
+    hostIp = '192.168.2.1'
     
     # 300 seconds, test every 5 mins
     timeout = 5*60
